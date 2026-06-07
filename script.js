@@ -15,7 +15,7 @@ if (logo) {
 
 // 2. Lógica do Carrossel
 let currentSlide = 0;
-const totalSlides = 3;
+const totalSlides = 4;
 const track = document.getElementById('carousel-track');
 const dots = document.querySelectorAll('.carousel-dot');
 const currentCounter = document.getElementById('current-slide-counter');
